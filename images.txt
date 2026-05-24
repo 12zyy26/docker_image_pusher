@@ -1,6 +1,6 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# 你的Spring Boot镜像
+minipay-order:1.0
+# MySQL 镜像
+mysql:8.4
+# 其他你需要的镜像
+nginx:alpine
